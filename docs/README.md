@@ -1,7 +1,5 @@
 <div align="center">
-<h2>
-Improving our community through innovation....
-</h2><br>
+<br>
 <h4>
 CoFound Grand Island exists for the sole purpose of developing a startup culture in Grand Island and the surrounding area.  The primary vehicles we are using to accomplish this is developing a community of startup, entrepreneur, and tech minded types along with forming a mentor network of local businesses.</h4>
 <h4>
@@ -10,10 +8,7 @@ We can be found at <br><br>
 <b>Grand Island, Ne 68818</b>
 </h4>
 </div>
-<br>
-<br>
-<br>
+
 <iframe width="100%" height="300" style="border:none;" src="map.html" /></iframe>
-<br><br><br>
 
 [Get Connected](/getConnected ":class=button")
