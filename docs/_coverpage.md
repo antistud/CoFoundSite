@@ -2,7 +2,7 @@
 
 ![logo](_media/logo.png ":size=400")
 
-> Improving our community through innovation.
+> Improving our community through innovation
 
 [Learn More](/README)
 [Get Connected](/getConnected)
