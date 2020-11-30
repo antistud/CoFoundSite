@@ -1,10 +1,10 @@
 <!-- _coverpage.md -->
 
-![logo](_media/logo.png ":size=400")
+![logo](_media/logo2.png ":size=400")
 
-> Improving our community through innovation
+> Finding the not obvious
 
-[Learn More](/README)
+[Learn More](/about)
 [Get Connected](/getConnected)
 
 <!-- background image -->

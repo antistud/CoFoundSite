@@ -4,6 +4,5 @@
 </a>
 </div>
 
-- [Home](/)
-- [About CoFound](README.md)
+- [About CoFound](about.md)
 - [Contact Us](getConnected.md)
