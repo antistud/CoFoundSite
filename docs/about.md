@@ -54,6 +54,8 @@ CoFound already has a growing network work of partners and mentors.
 <img src="_media/EDC.png" width="200px">
 </a>
 </td>
+</tr>
+<tr>
 <td>
 <a href="https://growgrandisland.com/">
 <img src="_media/Grow_GrandIsland.png" width="200px">
@@ -67,6 +69,11 @@ CoFound already has a growing network work of partners and mentors.
 <td>
 <a href="https://parksveterinary.com/">
 <img src="_media/parksvet.gif" width="200px">
+</a>
+</td>
+<td>
+<a href="https://nebtechcollab.com/">
+<img src="_media/ntc.png" width="200px">
 </a>
 </td>
 </tr>
