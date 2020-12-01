@@ -4,8 +4,8 @@
 **214 North Locust, Suite 1**  
 **Grand Island, Ne 68818**
 
-<a href="_media/vcard.vcf">
-Download My Contact Info
+<a href="phone://_media/vcard.vcf">
+Download My Contact Info Into Phone
 </a>
 
 <iframe width="100%" height="300" style="border:none;" src="map.html" /></iframe>
