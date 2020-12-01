@@ -26,7 +26,7 @@ Grand Island's more urgent problem is the scarcity of technology jobs, we call t
 
 # The Community
 
-CoFound very intentionally resides inside The Hedde building downtown. This beautiful old building has been transformed into The Hedde Collective. The Hedde Collective is a co-working space specially designed for entrepreneur and startups.
+CoFound very intentionally resides inside The Hedde building downtown. This beautiful old building has been transformed into The Hedde Collective. The Hedde Collective is a co-working space specially designed for entrepreneurs and startups.
 
 # The Network
 
