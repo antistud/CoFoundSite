@@ -30,7 +30,7 @@ CoFound very intentionally resides inside The Hedde building downtown. This beau
 
 # The Network
 
-CoFound already has a growing network work of partners and mentors.
+CoFound already has a growing network of partners and mentors.
 
 <table class="notable">
 <tr>
@@ -79,8 +79,10 @@ CoFound already has a growing network work of partners and mentors.
 </tr>
 </table>
 
-# The Path
+[Join The Network](/network)
 
-Developing a startup is not an easy task. So much to do and so little time get it done. We help founders prioritize what steps to take next and walk them through the first four months of developing an idea into a startup. The path is designed to setup new startups and founders for success preparing them to scale up and grow fast.
+# The Accelerator
 
-[Get Connected](/contact ":class=button")
+Developing a startup is not an easy task. So much to do and so little time to get it done. We help founders prioritize what steps to take next and walk them through the first four months of developing an idea into a startup. The path is designed to setup new startups and founders for success preparing them to scale up and grow fast. [Learn More](/idea)
+
+[Submit Your Idea](/idea ":class=button") [Get Connected](/contact ":class=button")

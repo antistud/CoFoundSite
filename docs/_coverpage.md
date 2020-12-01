@@ -6,6 +6,7 @@
 
 [Learn More](/about)
 [Get Connected](/contact)
+[Submit Your Idea](/idea)
 
 <!-- background image -->
 

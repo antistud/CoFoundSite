@@ -6,3 +6,5 @@
 
 - [About CoFound](about.md)
 - [Contact Us](contact.md)
+- [Submit You Idea](idea.md)
+- [Join The Network](network.md)
