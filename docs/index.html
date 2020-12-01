@@ -44,6 +44,19 @@ section.cover p {
     margin: 1em 0;
     color: white;
 }
+.notable{
+  width: 100%;
+}
+.notable td{
+  border: 1px solid rgb(255, 255, 255);
+}
+.notable tr {
+    border-top: 0px solid rgb(255, 255, 255);
+}
+.notable td, .notable th {
+    border: 0px solid rgb(255, 255, 255);
+    padding: 6px 13px;
+}
 
 </style>
 </head>
@@ -55,7 +68,8 @@ section.cover p {
       repo: '',
       coverpage: true,
       loadSidebar: true,
-      onlyCover: true
+      onlyCover: true,
+      auto2top: true,
     }
   </script>
   <!-- Docsify v4 -->

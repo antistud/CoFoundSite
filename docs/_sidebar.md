@@ -5,4 +5,4 @@
 </div>
 
 - [About CoFound](about.md)
-- [Contact Us](getConnected.md)
+- [Contact Us](contact.md)

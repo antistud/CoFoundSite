@@ -2,10 +2,10 @@
 
 ![logo](_media/logo2.png ":size=400")
 
-> Finding the not obvious
+> Finding the NOT obvious
 
 [Learn More](/about)
-[Get Connected](/getConnected)
+[Get Connected](/contact)
 
 <!-- background image -->
 
