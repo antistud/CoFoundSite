@@ -1,10 +1,10 @@
 # Submit Your Idea
 
-### CoFound is actively seeking participants in the IDEA Series 0 Accelerator.
+### We are actively seeking participants in the 2021 IDEA Series 0 Accelerator.
 
-Participants in the IDEA Series 0 Accelerator will be matched with businesses from the around the Grand Island area to help develope there idea or build up on problems that those business already have.
+Participants in the 2021 IDEA Series 0 Accelerator will be matched with businesses from around the Grand Island area to help develop their idea or build upon problems that those businesses already have.
 
-The IDEA series Accelerator is made up of four rounds. Identify, Define, Experiment, and Accelerator. Rounds broken into a series of tasks designed to help you grow your idea. Each round is required to be completed with in 3 weeks followed with one week of evaluation and feedback. Participants will be awarded funding at the end of each round to be used towards growing there idea.
+The IDEA Accelerator is made up of four rounds. Identify, Define, Experiment, and Accelerator. Series are broken into stages designed to help you grow your idea. Each stage is required to be completed within 2 weeks. Participants will be awarded funding at the end of each round to be used towards growing their idea.
 
 **Who should apply?**  
 Anyone with the innovator spirit.
