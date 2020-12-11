@@ -8,4 +8,3 @@
 - [Contact Us](contact.md)
 - [Submit You Idea](idea.md)
 - [Join The Network](network.md)
-- [Login](https://learn.cofoundgi.com/wp-login.php)
