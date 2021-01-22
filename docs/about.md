@@ -81,8 +81,8 @@ CoFound already has a growing network of partners and mentors.
 
 [Join The Network](/network)
 
-# The Accelerator
+# The Program
 
-Developing a startup is not an easy task. So much to do and so little time to get it done. We help founders prioritize what steps to take next and walk them through the first four months of developing an idea into a startup. The path is designed to setup new startups and founders for success preparing them to scale up and grow fast. [Learn More](/idea)
+Developing a startup is not an easy task. We help founders prioritize what steps to take next and walk them through the first four months of developing an idea into a startup. The path is designed to setup new startups and founders for success preparing them to scale up and grow fast. [Learn More](/idea)
 
 [Submit Your Idea](/idea ":class=button") [Get Connected](/contact ":class=button")

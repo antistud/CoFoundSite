@@ -1,10 +1,12 @@
 # Submit Your Idea
 
-### We are actively seeking participants in the 2021 IDEA Series 0 Accelerator.
+### We are actively seeking participants in the 2021 IDEA series early traction program.
 
-Participants in the 2021 IDEA Series 0 Accelerator will be matched with businesses from around the Grand Island area to help develop their idea or build upon problems that those businesses already have.
+Participants in the 2021 IDEA series early growth program will be matched with businesses and to help develop their idea or build upon problems that those businesses already have.
 
-The IDEA Accelerator is made up of four rounds. Identify, Define, Experiment, and Accelerator. Series are broken into stages designed to help you grow your idea. Each stage is required to be completed within 2 weeks. Participants will be awarded $1000 towards gaining traction with their project.
+To qualify for the 2021 IDEA series early traction program you must complete two validation rounds. The first round will required prospects to participate in IDEA storm. IDEA storm is a 60 minute Zoom call where innovators from the Grand Island area meet to discuss ideas with potential from real impact. Round two prospects will have to complete a mentor storm. The mentor storm gives prospects 5 minutes to pitch potential ideas to area mentors.
+
+To find out more about the 2021 IDEA series early traction program contact us.
 
 **Who should apply?**  
 Anyone with the innovator spirit.
