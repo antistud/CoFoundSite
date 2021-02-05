@@ -2,7 +2,7 @@
 
 ![logo](_media/logo2.png ":size=400")
 
-> Finding the NOT obvious
+> Solving and serving the worlds problems in Grand Island
 
 [Learn More](/about)
 [Get Connected](/contact)
