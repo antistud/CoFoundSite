@@ -1,12 +1,8 @@
-# About CoFound
+# Launching Local
 
-#### _"CoFound exists to develop a startup culture in Grand Island and the surrounding area. The primary vehicles we are using to accomplish this is developing a community of startups, entrepreneurs, and tech-minded types along with forming a mentor network of local businesses while providing a guided path to success."_
+CoFound Grand Island is a startup collaborative focused on providing a space to foster shared working experience between founders who are actively working on high-scale potential projects.
 
-#### Wait, stop please... way too much jargon. How about we break it down a little.
-
-# Finding the NOT obvious
-
-We spend an incredible amount of our effort paying attention to things that are not obvious. Our mindset is to not focus on the why not or how not, but how a solution can possibly win. This forces us to rely on things like our imagination and creativity to seek out a path that is not readily easy to accommodate or acquire. This approach demands that we develop tools that currently do not exist, primarily the **"startup culture"**.
+CoFound exists to develop a startup culture in Grand Island and the surrounding area. This is accomplished through developing a community of startups, entrepreneurs, and tech-minded individuals operating within a strong mentor network of local businesses and organizations.
 
 ### Startups = Growth
 
@@ -80,9 +76,3 @@ CoFound already has a growing network of partners and mentors.
 </table>
 
 [Join The Network](/network)
-
-# The Program
-
-Developing a startup is not an easy task. We help founders prioritize what steps to take next and walk them through the first four months of developing an idea into a startup. The path is designed to setup new startups and founders for success preparing them to scale up and grow fast. [Learn More](/idea)
-
-[Submit Your Idea](/idea ":class=button") [Get Connected](/contact ":class=button")
