@@ -2,7 +2,7 @@
 
 ![logo](_media/logo2.png ":size=400")
 
-> Solving and serving the worlds problems in Grand Island
+> A community-driven approach to launching local!!!
 
 [Learn More](/about)
 [Get Connected](/contact)
