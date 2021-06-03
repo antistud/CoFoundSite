@@ -1,8 +1,8 @@
 # Launching Local
 
 CoFound is a community-driven approach to launching local.
-
-CoFound Grand Island exists to develop a startup culture in Grand Island and the surrounding area. This is accomplished through developing a community of startups, entrepreneurs, and tech-minded individuals operating within a strong mentor network of local businesses and organizations.
+​
+​CoFound Grand Island exists to develop a startup culture in Grand Island and the surrounding area. This is accomplished through developing a community of founders, innovators, tech-minded individuals, and community leaders operating within a strong support network of local businesses and organizations.
 
 ### Startups = Growth
 
