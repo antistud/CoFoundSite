@@ -5,7 +5,7 @@
 > A community-driven approach to launching local!!!
 
 [Learn More](/about)
-[Get Connected](/contact)
+<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a>
 
 <!-- background image -->
 

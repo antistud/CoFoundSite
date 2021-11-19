@@ -1,14 +1,26 @@
-# Submit Your Idea
 
-### We are actively seeking participants in the 2021 IDEA series early traction program.
 
-Participants in the 2021 IDEA series early traction program will be matched with businesses to help develop their idea or build upon problems that those businesses already have.
 
-To qualify for the 2021 IDEA series early traction program you must complete two validation rounds. The first round will required prospects to participate in IDEA storm. IDEA storm is a 60 minute Zoom call where innovators from the Grand Island area meet to discuss ideas with potential for real impact. Round two prospects will complete a mentor storm. The mentor storm gives prospects 5 minutes to pitch potential ideas to area mentors.
+# Our BHAG(Big Hairy Audacious Goal)
+<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join Us on LinkedIn</a> <br/><br/>
 
-To find out more about the 2021 IDEA series early traction program contact us.
+<img src="_media/CoFound.jpg" width="100%">
 
-**Who should apply?**  
-Anyone with the innovator spirit.
 
-<iframe width="100%" height="2050" style="border:none;" src="https://forms.clickup.com/f/879r4-42/HJYFYKCTX1D3R49RTU" /></iframe>
+### Startups = Growth
+
+What exactly is a **"startup culture"**? A startup is simply a business with one key distinction... a high growth potential. Startups are formed by merging entrepreneurs with new ideas. Generally, we refer to them as founders. Founders are men or women who have created something new or have found a new way of thinking about an old problem. The startup culture is a highly intentional approach towards developing an environment to encourage and create founders.
+
+### Why High Growth?
+
+We have identified two problems in the Grand Island community. The lack of custom solution providers and the scarcity of potential jobs for future generations in technology. We know that high growth companies have a strong dependency on technology. If CoFound can encourage a thriving environment for custom solution providers, we will see the continued growth of the opportunities and capabilities of this community.
+
+###### The Capacity Gap
+
+The lack of custom solution providers is what we call the "Capacity Gap". Companies in the Grand Island area have grown to the size that they now demand custom solutions to problems. However, Grand Island currently does not have a strong ecosystem of custom software and hardware solution providers forcing companies to look outside of the Grand Island area to fill their unique needs.
+
+###### The Workforce Gap
+
+Grand Island's more urgent problem is the scarcity of technology jobs, we call this the "Workforce Gap". Grand Island has invested an incredible amount of resources and time into educating the next generations of future tech and entrepreneur types. However, with little opportunities locally, a large portion of these future innovators are forced to move out of the Grand Island area or worse, move on, giving up on their dreams of working in those fields.
+
+<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join Us on LinkedIn</a> <br/>
