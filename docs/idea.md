@@ -2,7 +2,7 @@
 
 
 # Our BHAG(Big Hairy Audacious Goal)
-<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join Us on LinkedIn</a> <br/><br/>
+<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/><br/>
 
 <img src="_media/CoFound.jpg" width="100%">
 
@@ -23,4 +23,4 @@ The lack of custom solution providers is what we call the "Capacity Gap". Compan
 
 Grand Island's more urgent problem is the scarcity of technology jobs, we call this the "Workforce Gap". Grand Island has invested an incredible amount of resources and time into educating the next generations of future tech and entrepreneur types. However, with little opportunities locally, a large portion of these future innovators are forced to move out of the Grand Island area or worse, move on, giving up on their dreams of working in those fields.
 
-<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join Us on LinkedIn</a> <br/>
+<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>

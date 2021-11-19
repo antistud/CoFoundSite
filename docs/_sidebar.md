@@ -4,8 +4,9 @@
 </a>
 </div>
 
-- [Events](events.md)
+
 - [About CoFound](about.md)
+- [Events](events.md)
 - [BHAG!](idea.md)
 - [Contact Us](contact.md)
 - [Become a Member](https://www.patreon.com/bePatron?u=56517045)

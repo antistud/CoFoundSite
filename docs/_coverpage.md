@@ -2,10 +2,12 @@
 
 ![logo](_media/logo2.png ":size=400")
 
-> A community-driven approach to launching local!!!
+> A community for launching local!!!
 
-[Learn More](/about)
+
 <a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a>
+<a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a>
+[Learn More](/about)
 
 <!-- background image -->
 
