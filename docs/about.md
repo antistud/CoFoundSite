@@ -1,6 +1,6 @@
 <img src="_media/LaunchingLocal.png" width="100%">
 
-<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>
+<a href="https://www.patreon.com/cofoundgi" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>
 
 # Launching Local
 
@@ -64,4 +64,4 @@ CoFound has a growing network of partners and mentors.
 </tr>
 </table>
 
-<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>
+<a href="https://www.patreon.com/cofoundgi" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>

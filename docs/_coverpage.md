@@ -5,7 +5,7 @@
 > A community for launching local!!!
 
 
-<a href="https://www.patreon.com/bePatron?u=56517045" >Become a Member!</a>
+<a href="https://www.patreon.com/cofoundgi" >Become a Member!</a>
 <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a>
 [Learn More](/about)
 

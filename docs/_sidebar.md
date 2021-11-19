@@ -9,4 +9,4 @@
 - [Events](events.md)
 - [BHAG!](idea.md)
 - [Contact Us](contact.md)
-- [Become a Member](https://www.patreon.com/bePatron?u=56517045)
+- [Become a Member](https://www.patreon.com/cofoundgi)
