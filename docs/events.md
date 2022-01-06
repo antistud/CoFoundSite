@@ -14,5 +14,6 @@
 <script src="https://givibe.yo.city/embed-website.js" >    </script>
 <script>
       var yocity_app = "givibe";
+      
 </script>
 
