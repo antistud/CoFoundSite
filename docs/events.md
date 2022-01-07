@@ -14,8 +14,7 @@
 Whats Going On In GI
 </h2>
  <div id="yc_list" list="2" image-size="cover" item-link="event.html?id=[item-id]"></div>
-
-   <script src="https://givibe.yo.city/embed.js"></script>
-    <script>
-        var yc_app = "givibe";
-    </script>
+<script src="https://givibe.yo.city/embed.js"></script>
+<script>
+var yc_app = "givibe";
+</script>
