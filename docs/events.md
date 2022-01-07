@@ -10,10 +10,12 @@
   </div>
 <a href="https://www.patreon.com/cofoundgi" >Become a Member!</a> or <a href="https://www.linkedin.com/company/cofoundgi/events" >Join us on LinkedIn</a> <br/>
 
-<div id="yocity_list" list="1">Events</div>
-<script src="https://givibe.yo.city/embed-website.js" >    </script>
-<script>
-      var yocity_app = "givibe";
-      
-</script>
+<h2>
+Whats Going On In GI
+</h2>
+ <div id="yc_list" list="2" image-size="cover" item-link="event.html?id=[item-id]"></div>
 
+   <script src="https://givibe.yo.city/embed.js"></script>
+    <script>
+        var yc_app = "givibe";
+    </script>
