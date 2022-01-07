@@ -10,7 +10,18 @@
   <script src="https://givibe.yo.city/embed.js"></script>
   <script>
     var yc_app = "givibe";
-  </script>
+
+    // Example Pulling Query From Param
+    window.addEventListener("load",function(){
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const itemId = urlParams.get('id')
+    let itemDiv = document.getElementById("yc_item");
+    itemDiv.setAttribute("item-id", itemId)
+    //alert(itemId)
+    },false);
+
+</script>
 <style>
 .sidebar-toggle span {
     background-color: var(--theme-color,#42b983);
