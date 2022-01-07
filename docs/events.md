@@ -13,4 +13,4 @@
 <h2>
 Whats Going On In GI
 </h2>
- <div id="yc_list" list="2" image-size="cover" item-link="event.html?id=[item-id]"></div>
+ <div id="yc_list" list="2" image-size="cover" item-link="#/event.html?id=[item-id]"></div>
