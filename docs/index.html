@@ -12,14 +12,6 @@
     var yc_app = "givibe";
 
     // Example Pulling Query From Param
-    window.addEventListener("load",function(){
-    const queryString = window.location.search;
-    const urlParams = new URLSearchParams(queryString);
-    const itemId = urlParams.get('id')
-    let itemDiv = document.getElementById("yc_item");
-    itemDiv.setAttribute("item-id", itemId)
-    //alert(itemId)
-    },false);
 
 </script>
 <style>
@@ -109,5 +101,16 @@ section.cover p {
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script>
+        window.addEventListener("load",function(){
+    const queryString = window.location.search;
+    const urlParams = new URLSearchParams(queryString);
+    const itemId = urlParams.get('id')
+    let itemDiv = document.getElementById("yc_item");
+    itemDiv.setAttribute("item-id", itemId)
+    //alert(itemId)
+    },false);
+
+  </script>
 </body>
 </html>
